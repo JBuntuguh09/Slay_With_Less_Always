@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840842794564",
+    "firebase_url": "https://slaywithlessalways.firebaseio.com",
+    "project_id": "slaywithlessalways",
+    "storage_bucket": "slaywithlessalways.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840842794564:android:e84a2a16df575652864e11",
+        "android_client_info": {
+          "package_name": "com.lonewolf.slay_with_less_always"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840842794564-0le4kcij9k68uqn7ds5hs01cc750ke0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lonewolf.slay_with_less_always",
+            "certificate_hash": "1a990126a278c7a05ec6de2c074ec25edb3f6ffa"
+          }
+        },
+        {
+          "client_id": "840842794564-bgh29lnf20b93qhl25ilp901vpjrju98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTuGBqFuo_oeTH3mZymGhUtOfojoa5sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840842794564-bgh29lnf20b93qhl25ilp901vpjrju98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
