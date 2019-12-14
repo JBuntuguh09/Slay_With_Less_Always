@@ -189,7 +189,6 @@ public class SliderAdapter extends PagerAdapter {
 
                 }
 
-//https://www.instagram.com/slay_with_less_always/
             }
         });
 
